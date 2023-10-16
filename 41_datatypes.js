@@ -1,7 +1,7 @@
 //*******************************************************/
 // Strings (Zeichenketten)
 //*******************************************************/
-
+debugger
 const subject = "Computer Science"
 const level = "GYM3"
 const room = "H004"
